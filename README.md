@@ -1,5 +1,3 @@
-# fairml-xai-pipeline
-This repository contains the code, analysis, and report for a research project focused on fairness and interpretability in machine learning.
 # FairML-XAI: Fairness and Interpretability in Machine Learning
 
 This repository accompanies a research project focused on improving fairness and transparency in machine learning models applied to socially sensitive domains. Using real-world datasets—the **UCI Adult Income** dataset and the **COMPAS** dataset—this project investigates **bias mitigation** through **class reweighting** and explains model behavior using **Explainable AI (XAI)** techniques like **SHAP**, **LIME**, and **Phi-2** natural language generation.
